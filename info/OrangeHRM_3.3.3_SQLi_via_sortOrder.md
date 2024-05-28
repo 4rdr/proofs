@@ -1,3 +1,6 @@
+CVE-2024-36428
+
+
 Vulnerability: Blind SQLi 
 
 ```
