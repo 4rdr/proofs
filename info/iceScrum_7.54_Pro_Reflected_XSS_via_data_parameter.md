@@ -1,9 +1,9 @@
 
 Vulnerability: Reflected XSS via data parameter
 
-URL: http://192.168.124.128/textileParser?data=test<script>alert(1)</script>
+URL: ```http://192.168.124.128/textileParser?data=test<script>alert(1)</script>```
 
-Payload: test<script>alert(1)</script>
+Payload: ```test<script>alert(1)</script>```
 
 Action to trigger: None
 
