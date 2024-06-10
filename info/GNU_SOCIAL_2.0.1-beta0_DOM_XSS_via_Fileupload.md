@@ -8,4 +8,4 @@ User: Any Account
 
 
 Demo:
-![]([https://github.com/4rdr/proofs/blob/main/gifs/faveo-helpdesk_2.0.3_File_Traversal_via_dl.gif](https://github.com/4rdr/proofs/blob/main/gifs/GNU_SOCIAL_2.0.1-beta0_DOM_XSS_via_Fileupload.gif?raw=true)
+![](https://github.com/4rdr/proofs/blob/main/gifs/GNU_SOCIAL_2.0.1-beta0_DOM_XSS_via_Fileupload.gif)
