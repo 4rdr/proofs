@@ -1,6 +1,6 @@
 Vulnerability: GNU SOCIAL 2.0.1-beta0 Stored XSS via broughtby parameter
 
-URL: Any File Upload for posting content
+URL: https://192.168.124.42/index.php/panel/site
 
 Payload: ```<script>alert(1)</script>```
 
