@@ -1,4 +1,4 @@
-Use CVE-2024-37700
+CVE-2024-37700
 
 
 Vulnerability: File Traversal via dl
