@@ -1,3 +1,6 @@
+CVE-2024-40347
+
+
 Vulnerability: Reflected XSS
 
 Note: The version and user below are the what was used. Other users and versions may be affected.
