@@ -1,3 +1,7 @@
+CVE-2024-40348
+
+
+
 Vulnerability: File Traversal via path filename
 
 
