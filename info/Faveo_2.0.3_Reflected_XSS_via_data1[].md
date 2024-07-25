@@ -1,4 +1,4 @@
-Use CVE-2024-37701
+CVE-2024-37701
 
 
 Vulnerability: Reflected XSS via data1[]
