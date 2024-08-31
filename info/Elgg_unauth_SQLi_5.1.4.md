@@ -1,3 +1,6 @@
+CVE-2024-42518
+
+
 Vulnerability: Unauth Blind SQLi
 
 
