@@ -9,3 +9,10 @@ In cases where the software is several years old or has reached its end-of-life 
 
 # github credits
 https://github.com/advisories?query=credit%3A4rdr
+
+# release credits
+
+https://web.archive.org/web/20240711122657/https://elgg.org/blog/view/3310403/elgg-601-and-518-security-update
+
+https://rouilj.dynamic-dns.net/~rouilj/roundup_docs/docs/acknowledgements.html
+
