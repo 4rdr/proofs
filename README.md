@@ -17,3 +17,5 @@ https://web.archive.org/web/20240711122657/https://elgg.org/blog/view/3310403/el
 https://rouilj.dynamic-dns.net/~rouilj/roundup_docs/docs/acknowledgements.html
 
 https://community.sonarsource.com/t/sonarqube-sql-injection/127390
+
+# ExploitDB
