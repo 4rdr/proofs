@@ -14,8 +14,13 @@ https://github.com/advisories?query=credit%3A4rdr
 
 https://web.archive.org/web/20240711122657/https://elgg.org/blog/view/3310403/elgg-601-and-518-security-update
 
+https://web.archive.org/web/20250404012750/https://www.getontracks.org/news/
+
+
+
 https://rouilj.dynamic-dns.net/~rouilj/roundup_docs/docs/acknowledgements.html
 
 https://community.sonarsource.com/t/sonarqube-sql-injection/127390
+https://web.archive.org/web/20250427011218/https://community.sonarsource.com/t/sonarqube-sql-injection/127390
 
 # ExploitDB
