@@ -24,3 +24,7 @@ https://community.sonarsource.com/t/sonarqube-sql-injection/127390
 https://web.archive.org/web/20250427011218/https://community.sonarsource.com/t/sonarqube-sql-injection/127390
 
 # ExploitDB
+
+
+# Other CVES
+CVE-2024-40646
