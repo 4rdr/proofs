@@ -27,4 +27,6 @@ https://web.archive.org/web/20250427011218/https://community.sonarsource.com/t/s
 
 
 # Other CVES
-CVE-2024-41678
+CVE-2021-3860 (artifactory)
+CVE-2024-41678 (glpi)
+CVE-2024-40646 (vertex)
