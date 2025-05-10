@@ -27,4 +27,4 @@ https://web.archive.org/web/20250427011218/https://community.sonarsource.com/t/s
 
 
 # Other CVES
-CVE-2024-40646
+CVE-2024-41678
