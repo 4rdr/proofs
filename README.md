@@ -8,7 +8,11 @@ In cases where the software is several years old or has reached its end-of-life 
 
 
 # github credits
+verified
 https://github.com/advisories?query=credit%3A4rdr
+
+unverified
+https://github.com/advisories?query=4rdr
 
 # release credits
 
@@ -32,3 +36,5 @@ CVE-2021-3860 (artifactory)
 CVE-2024-41678 (glpi)
 
 CVE-2024-40646 (vertex)
+
+CVE-2025-47929 (dumbdrop)
