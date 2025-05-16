@@ -11,7 +11,7 @@ In cases where the software is several years old or has reached its end-of-life 
 verified
 https://github.com/advisories?query=credit%3A4rdr
 
-unverified
+reviewed and unreviewed
 https://github.com/advisories?query=4rdr
 
 # release credits
