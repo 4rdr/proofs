@@ -30,7 +30,7 @@ https://web.archive.org/web/20250427011218/https://community.sonarsource.com/t/s
 # ExploitDB
 
 
-# Other CVES
+# CVES not in repo
 CVE-2021-3860 (artifactory)
 
 CVE-2024-41678 (glpi)
