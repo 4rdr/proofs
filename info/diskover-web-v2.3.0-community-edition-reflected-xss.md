@@ -1,3 +1,6 @@
+diskover-web v2.3.0 Community Edition is vulnerable to multiple reflected cross-site scripting (XSS) flaws in its web interface. Unsanitized GET parameters—including maxage, maxindex, index, path, q (query), and doctype—are directly echoed into the HTML response, allowing attackers to inject and execute arbitrary JavaScript when a victim visits a maliciously crafted URL.
+
+
 
 ```diskover-web v2.3.0 community edition (ce)```
 
