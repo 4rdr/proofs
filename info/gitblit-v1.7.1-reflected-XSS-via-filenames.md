@@ -3,7 +3,7 @@ Vulnerability: Reflected XSS via Path
 Version: ```v1.7.1```
 
 
-Authenticated: Yes, possibly no
+Authenticated: Yes, possibly unauthenticated
 
 User: Admin
 
