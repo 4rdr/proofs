@@ -1,5 +1,9 @@
 Vulnerability: Angular Template Injection/Reflected XSS
 
+
+A template injection vulnerability leading to reflected cross-site scripting (XSS) has been identified in version 1.7.1, requiring authenticated admin access for exploitation. The vulnerability exists in the 'r' parameter and allows attackers to inject malicious Angular expressions that execute JavaScript code in the context of the application. The flaw can be exploited through GET requests to the summary endpoint as well as POST requests to specific Wicket interface endpoints, though the GET method provides easier weaponization. This vulnerability enables authenticated administrators to execute arbitrary client-side code, potentially leading to session hijacking, data theft, or further privilege escalation attacks.
+
+
 Version: ```v1.7.1```
 
 
