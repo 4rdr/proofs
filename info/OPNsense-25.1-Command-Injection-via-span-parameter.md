@@ -1,3 +1,5 @@
+OPNsense 25.1 contains an authenticated command injection flaw in its Bridge Interface Edit endpoint (interfaces_bridge_edit.php). The span POST parameter is concatenated into a system-level command without proper sanitization or escaping, allowing an administrator to inject arbitrary shell operators and payloads. Successful exploitation grants RCE with the privileges of the web service (typically root), potentially leading to full system compromise or lateral movement. This vulnerability arises from inadequate input validation and improper handling of user‐supplied data in backend command invocations.
+
 
 
 Vulnerability: Command Injection
