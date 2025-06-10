@@ -1,3 +1,6 @@
+diskover-web v2.3.0 Community Edition suffers from multiple stored cross-site scripting (XSS) vulnerabilities in its administrative settings interface. Various configuration fields—such as ES_HOST, ES_INDEXREFRESH, ES_PORT, ES_SCROLLSIZE, ES_TRANSLOGSIZE, ES_TRANSLOGSYNCINT, EXCLUDES_FILES, FILE_TYPES[], INCLUDES_DIRS, INCLUDES_FILES, and TIMEZONE—do not properly sanitize user-supplied input. Malicious payloads submitted via these parameters are persisted in the application and executed whenever an administrator views or edits the settings page.
+
+
 ```diskover-web v2.3.0 community edition (ce)```
 
 
