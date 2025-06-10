@@ -1,5 +1,10 @@
 Vulnerability: Reflected XSS via Path
 
+In Gitblit v1.7.1, a reflected cross-site scripting (XSS) vulnerability exists in the way repository path names are handled. By injecting a specially crafted path payload—such as "%22><img src=a onerror=alert(1)>"—an attacker can cause arbitrary JavaScript to execute when a victim views the manipulated URL. This flaw stems from insufficient input sanitization of filename elements.
+
+
+
+
 Version: ```v1.7.1```
 
 
@@ -7,10 +12,10 @@ Authenticated: Yes, possibly unauthenticated
 
 User: Admin
 
-Vulnerable Parameter:
 
 
-Payload:
+
+Payload: ```%22%3e%3cimg%20src%3da%20onerror%3dalert(1)%3e```
 
 None of these will work for your instance.  You need to replace the repo names ```<REPLACE ME>``` with the exisiting ones.
 
