@@ -5,8 +5,8 @@ Sqlmap confirmed exploitation via stacked queries, demonstrating that the parame
 
 
 
-https://github.com/user-attachments/assets/2a14d503-3cf4-4c53-afad-859654824b25
 
+![](https://github.com/4rdr/proofs/blob/main/gifs/readarr-0.4.15.2787-sql-injection-via-sortkey-parameter.gif?raw=true)
 
 
 
