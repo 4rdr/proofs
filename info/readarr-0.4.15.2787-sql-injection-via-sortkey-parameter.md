@@ -1,3 +1,7 @@
+CVE-2025-50983
+
+
+
 Description
 A SQL Injection vulnerability exists in the sortKey parameter of the GET /api/v1/wanted/cutoff API endpoint. The endpoint fails to properly sanitize user-supplied input, allowing attackers to inject and execute arbitrary SQL commands against the backend SQLite database.
 
