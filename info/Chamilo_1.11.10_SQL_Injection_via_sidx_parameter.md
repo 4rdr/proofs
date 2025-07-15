@@ -1,3 +1,9 @@
+CVE-2025-50964
+
+
+
+
+
 ## Time based and boolean based SQLi via the sidx parameter
 
 
