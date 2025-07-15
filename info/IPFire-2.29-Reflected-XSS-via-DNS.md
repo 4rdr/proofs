@@ -1,3 +1,7 @@
+CVE-2025-50976
+
+
+
 IPFire 2.29’s DNS management interface (dns.cgi) fails to properly sanitize user-supplied input in the NAMESERVER, REMARK, and TLS_HOSTNAME query parameters, resulting in a reflected cross-site scripting (XSS) vulnerability.
 
 
