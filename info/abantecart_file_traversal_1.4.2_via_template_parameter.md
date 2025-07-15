@@ -1,3 +1,6 @@
+CVE-2025-50971
+
+
 AbanteCart version 1.4.2 contains an unauthenticated directory traversal vulnerability in its handling of the template parameter. An attacker can supply a crafted value containing “../” sequences to traverse outside the intended template directory and retrieve arbitrary files on the web server. This flaw allows unauthenticated remote attackers to read sensitive system files—such as /etc/passwd—and other configuration files, potentially exposing usernames, hashed passwords, private keys, or application secrets
 
 
