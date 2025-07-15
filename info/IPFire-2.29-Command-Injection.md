@@ -1,3 +1,7 @@
+CVE-2025-50974
+
+
+
 Description:
 The Calamaris log exporter CGI (/cgi-bin/logs.cgi/calamaris.dat) in IPFire 2.29 does not properly sanitize user-supplied input before incorporating parameter values into a shell command. An unauthenticated remote attacker can inject arbitrary OS commands by embedding shell metacharacters in any of the following parameters:
 
