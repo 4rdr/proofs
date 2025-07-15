@@ -1,3 +1,9 @@
+CVE-2025-50979
+
+
+
+
+
 NodeBB v4.3.0.
 
 NodeBB v4.3.0 is vulnerable to SQL injection in its search‐categories API endpoint (/api/v3/search/categories). The search query parameter is not properly sanitized, allowing unauthenticated, remote attackers to inject boolean‐based blind and PostgreSQL error‐based payloads.
