@@ -1,3 +1,6 @@
+CVE-2025-50972
+
+
 
 
 AbanteCart 1.4.2’s extension/generic endpoint is vulnerable to unauthenticated SQL injection via its URI parameter, allowing attackers to inject arbitrary queries. Three techniques have been demonstrated: error-based injection using a crafted FLOOR-based payload, time-based blind injection via SLEEP(), and UNION-based injection to extract arbitrary data. An attacker can exploit this flaw without any credentials to read or manipulate the database and even cause denial-of-service delays. Automation tools like sqlmap can fully exploit the vulnerability with high risk and confidence levels. Patching to a fixed version or enforcing parameterized queries and strict input validation will mitigate the issue
