@@ -1,3 +1,6 @@
+CVE-2025-50977
+
+
 Vulnerability: Angular Template Injection/Reflected XSS
 
 
