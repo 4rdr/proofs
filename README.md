@@ -42,3 +42,8 @@ CVE-2024-41678 (glpi)
 CVE-2024-40646 (vertex)
 
 CVE-2025-47929 (dumbdrop)
+
+https://github.com/galette/galette/security/advisories/GHSA-3rc3-rc5x-vmr4
+https://github.com/galette/galette/security/advisories/GHSA-ccwq-mxx3-chvh
+https://github.com/dbgate/dbgate/security/advisories/GHSA-7x75-fmx7-q6h9
+https://github.com/dbgate/dbgate/security/advisories/GHSA-2fp9-29gv-p5gm
