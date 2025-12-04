@@ -16,6 +16,8 @@ https://github.com/advisories?query=4rdr
 
 # release credits
 
+https://github.com/Ravinou/borgwarehouse/releases/tag/v3.1.0
+
 https://web.archive.org/web/20240711122657/https://elgg.org/blog/view/3310403/elgg-601-and-518-security-update
 
 https://web.archive.org/web/20250404012750/https://www.getontracks.org/news/
