@@ -24,6 +24,8 @@ https://github.com/cypht-org/cypht/releases/tag/v2.4.2
 
 https://rouilj.dynamic-dns.net/~rouilj/roundup_docs/docs/acknowledgements.html
 
+https://tiki.org/article520-New-Security-Updates-Released-for-Tiki-28-x-27-x-LTS-and-24-x-LTS-and-Upgrade-is-Strongly-Recommended
+
 https://community.sonarsource.com/t/sonarqube-sql-injection/127390
 https://web.archive.org/web/20250427011218/https://community.sonarsource.com/t/sonarqube-sql-injection/127390
 
